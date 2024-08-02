@@ -1,6 +1,6 @@
 # Steganography Educational Tool
 
-This repository provides a Python tool to learn about steganography, specifically using the Least Significant Bit (LSB) technique. It demonstrates embedding, extracting, and detecting hidden data or a code within images.
+This repository provides a Python tool to learn about steganography, specifically using the Least Significant Bit (LSB) technique. It demonstrates embedding, extracting, and detecting hidden data or a code within an image.
 
 ## Features
 
